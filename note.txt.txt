@@ -1,1 +1,2 @@
-https://aminulislam88.github.io/BMIcalculate/
+github-deploy-link: https://aminulislam88.github.io/BMIcalculate/
+Netlify-deploy-link: https://roaring-pie-4c8af0.netlify.app/
